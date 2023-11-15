@@ -25,63 +25,63 @@ function fishRandomizer(){
 
     if(fish == 1){
         fishName = 'Largemouth Bass';
-        document.getElementById("l_Bass").src="Assets/Fishes/Largemouth Bass.jpg";
+        document.getElementById("l_Bass").src="./Assets/Fishes/Largemouth Bass.jpg";
         var img = document.getElementById("l_Bass");
         img.style.visibility = "visible";
     }
 
     if(fish == 2){
         fishName = 'Smallmouth Bass';
-        document.getElementById("s_Bass").src="Assets/Fishes/Smallmouth Bass.jpg";
+        document.getElementById("s_Bass").src="./Assets/Fishes/Smallmouth Bass.jpg";
         var img = document.getElementById("s_Bass");
         img.style.visibility = "visible";
     }
 
     if(fish == 3){
         fishName = 'Bluegill';
-        document.getElementById("B_Gill").src="Assets/Fishes/Bluegill.jpg";
+        document.getElementById("B_Gill").src="./Assets/Fishes/Bluegill.jpg";
         var img = document.getElementById("B_Gil");
         img.style.visibility = "visible";
     }
 
     if(fish == 4){
         fishName = 'Perch';
-        document.getElementById("Perch").src="Assets/Fishes/Perch.jpg";
+        document.getElementById("Perch").src="./Assets/Fishes/Perch.jpg";
         var img = document.getElementById("Perch");
         img.style.visibility = "visible";
     }
 
     if(fish == 5){
         fishName = 'Roach';
-        document.getElementById("Roach").src="Assets/Fishes/Roach.jpg";
+        document.getElementById("Roach").src="./Assets/Fishes/Roach.jpg";
         var img = document.getElementById("Roach");
         img.style.visibility = "visible";
     }
 
     if(fish == 6){
         fishName = 'Channel Catfish';
-        document.getElementById("C_Catfish").src="Assets/Fishes/Channel Catfish.jpg";
+        document.getElementById("C_Catfish").src="./Assets/Fishes/Channel Catfish.jpg";
         var img = document.getElementById("C_Catfish");
         img.style.visibility = "visible";
     }
 
     if(fish == 7){
         fishName = 'Crappie';
-        document.getElementById("Crappie").src="Assets/Fishes/Crappie.jpg";
+        document.getElementById("Crappie").src="./Assets/Fishes/Crappie.jpg";
         var img = document.getElementById("Crappie");
         img.style.visibility = "visible";
     }
 
     if(fish == 8){
         fishName = 'Rainbow Trout';
-        document.getElementById("R_Trout").src="Assets/Fishes/Trout.jpg";
+        document.getElementById("R_Trout").src="./Assets/Fishes/Trout.jpg";
         var img = document.getElementById("R_Trout");
         img.style.visibility = "visible";
     }
 
     if(fish == 9){
         fishName = 'Sturgeon';
-        document.getElementById("Sturgeon").src="Assets/Fishes/Sturgeon.jpg";
+        document.getElementById("Sturgeon").src="./Assets/Fishes/Sturgeon.jpg";
         var img = document.getElementById("Sturgeon");
         img.style.visibility = "visible";
     }
